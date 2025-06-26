@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /privacy-policy
+Disallow: /terms-and-condition
+
+Sitemap: https://quanteqsolutions.com/sitemap.xml
+
+
